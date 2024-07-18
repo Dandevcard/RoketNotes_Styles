@@ -2,7 +2,7 @@ import styled from "styled-components";
 import backgroundImg from "../../assets/bg.png";
 
 export const Container = styled.div`
-  border: 1px solid red;
+
   height: 100vh;
 
   display: flex;
@@ -10,7 +10,7 @@ export const Container = styled.div`
 `;
 
 export const Form = styled.form`
-  border: 1px solid blue;
+
   padding: 0 136px;
   display: flex;
   flex-direction: column;
